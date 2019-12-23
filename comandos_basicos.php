@@ -44,5 +44,11 @@
 			<li>git diff para visualizar as diferenças no ambiente de trabalho, e a versão estável.</li>
 			<li>git diff nomearquivo.txt para visualizar no arquivo especifico.</li>
 		</ul>
+		
+		<h4>Conceitos de branch</h4>
+		<ul>
+			<li>Branch é uma ramificação que permite que o seu projeto siga por N caminhos, a partir de um determinado ponto</li>
+			<li>Permite que funcionalidades sejam desenvolvidas separadamente sem impactar na que foi feita (Master por exemplo)</li>
+		</ul>
 	</body>
 </html>
